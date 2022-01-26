@@ -2,9 +2,9 @@
 Easily fix the shortcomings of referencing files locally to your pkg'd executable
 
 ## Use
-First install the pkg-resolver using the npm command line tool
+First install the pkg-file-resolver using the npm command line tool
 ```
-npm i -g pkg-resolver
+npm i -g pkg-file-resolver
 ```
 Then, to use it in your code require it as follows:
 ```js
@@ -26,4 +26,4 @@ Within the pkg system the files that are compiled are adding into a snapshot sys
 | require.main.filename | /dir/file.js       | /snapshot/dir/file.js |
 | __resolve             | /dir               | /dir                  |
 
-pkg-resolve stands to help jump over this obstacle of just getting the local directory 
+pkg-file-resolver stands to help jump over this obstacle of just getting the local directory 
