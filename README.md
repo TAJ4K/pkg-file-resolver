@@ -1,4 +1,4 @@
-# pkg-resolver
+# pkg-file-resolver
 Easily fix the shortcomings of referencing files locally to your pkg'd executable
 
 ## Use
