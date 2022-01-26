@@ -1,0 +1,8 @@
+{
+  "name": "pkg-file-resolver",
+  "version": "1.0.4",
+  "description": "It's __dirname but for pkg'd windows applications",
+  "main": "pkg-file-resolver.js",
+  "author": "Kobe Rankich kobe@joltindustries.fish",
+  "license": "ISC"
+}
