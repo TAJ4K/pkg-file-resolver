@@ -1,8 +1,22 @@
 {
   "name": "pkg-file-resolver",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "description": "It's __dirname but for pkg'd windows applications",
+  "license": "ISC",
   "main": "pkg-file-resolver.js",
   "author": "Kobe Rankich kobe@joltindustries.fish",
-  "license": "ISC"
+  "homepage": "https://github.com/TAJ4K/pkg-file-resolver",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TAJ4K/pkg-file-resolver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TAJ4K/pkg-file-resolver/issues",
+    "email": "kobe@joltindustries.fish"
+  },
+  "keywords": [
+    "pkg",
+    "dirname",
+    "filesystem"
+  ]
 }
