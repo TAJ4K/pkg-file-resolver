@@ -1,4 +1,11 @@
+import path from 'path';
+import { fileURLToPath } from 'url'
+
 let result: string;
+
+const __filename = fileURLToPath(import.meta.url);
+
+const __dirname = path.dirname(__filename);
 
 (() => {
     if(__dirname.includes("snapshot")) {
