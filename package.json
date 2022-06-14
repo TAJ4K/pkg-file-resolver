@@ -1,6 +1,6 @@
 {
   "name": "pkg-file-resolver",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "It's __dirname but for pkg'd windows applications",
   "main": "dist/pkg-file-resolver.js",
   "types": "dist/pkg-file-resolver.d.ts",
