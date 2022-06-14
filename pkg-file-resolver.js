@@ -8,4 +8,4 @@
     }
 })()
 
-exports.__resolve = result
+export {result as __resolve};
