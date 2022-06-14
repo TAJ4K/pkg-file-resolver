@@ -18,7 +18,7 @@ Within the pkg system the files that are compiled are adding into a snapshot sys
 |                       | node               | pkg                   |
 |-----------------------|--------------------|-----------------------|
 | __filename            | /dir/file.js       | /snapshot/dir/file.js |
-| __dirname              | /dir               | /snapshot/dir         |
+| __dirname             | /dir               | /snapshot/dir         |
 | process.cwd()         | /dir as of the cmd | /Users/user           |
 | process.execPath      | /node.exe          | /dir/file.exe         |
 | process.argv[0]       | /node.exe          | /dir/file.exe         |
