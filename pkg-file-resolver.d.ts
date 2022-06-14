@@ -1,1 +1,3 @@
-export let __resolve: string;
+declare module 'pkg-file-resolver' {
+    export let __resolve: string;
+}
