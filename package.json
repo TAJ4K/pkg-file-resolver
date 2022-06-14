@@ -1,6 +1,6 @@
 {
   "name": "pkg-file-resolver",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "It's __dirname but for pkg'd windows applications",
   "main": "dist/pkg-file-resolver.js",
   "types": "dist/pkg-file-resolver.d.ts",
@@ -23,5 +23,8 @@
   ],
   "devDependencies": {
     "typescript": "^4.7.3"
+  },
+  "scripts": {
+    "bnp": "tsc && npm publish"
   }
 }
